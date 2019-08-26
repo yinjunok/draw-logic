@@ -2,6 +2,7 @@
   "name": "draw-logic",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://file.bald.icu/draw-logic",
   "dependencies": {
     "gg-editor": "^2.0.4",
     "react": "^16.9.0",
